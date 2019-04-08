@@ -1,4 +1,6 @@
 # Ihor
+
+@Changed by Vladyslav Pavlyk (Brauning)
 using System;
 
 class ExampleClass
