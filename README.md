@@ -1,4 +1,5 @@
 # Ihor
+changed by @Vlad Pavlyk
 using System;
 
 class ExampleClass
