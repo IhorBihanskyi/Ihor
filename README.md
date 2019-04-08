@@ -1,7 +1,8 @@
 # Ihor
-changed bi @Vlad Pavlyk
-using System;
+patch-1
+changed by @Vlad Pavlyk
 
+=======
 class ExampleClass
 {
   static void Main()
@@ -10,3 +11,8 @@ class ExampleClass
     Console.ReadKey();
   }
 }
+=======
+В цьому проекті розміщено програму для виведення повідомлення.
+В даному випадку виводиться: "Hello, world!".
+Реалізація здійснена за допомогою мови програмування C#.
+
